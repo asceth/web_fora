@@ -1,0 +1,7 @@
+web_fora is a stand alone otp application to serve forum
+requests.
+
+web_fora depends upon:
+- web_router
+
+and must be started by another supervisor process.
